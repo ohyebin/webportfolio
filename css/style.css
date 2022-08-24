@@ -343,15 +343,15 @@ a.active {
     font-family: 'S-CoreDream-4Regular';
     font-size: 14px;
     color: #666;
-    padding: 20px 0 20px 0;
 }
 .title_p{
-    font-family: 'Playfair Display', serif;;
-    font-size: 30px;
+    font-family: 'S-CoreDream-4Regular';
+    font-size: 28px;
     color: #425BB5;
+    padding: 15px 0;
 }
 .textimg{
-   padding-left: 350px;
+   padding-left: 370px;
 }
 
 
@@ -559,11 +559,12 @@ a.active {
 }
 .item_info h3{
     font-family: 'S-CoreDream-4Regular';
-    font-size: 36px; 
+    font-size: 32px; 
       
 }
 .item_info p{
    font-family: 'S-CoreDream-4Regular'; 
+   color: #666;
 }
 .font{
     font-family: 'S-CoreDream-4Regular';
